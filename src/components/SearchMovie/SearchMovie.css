@@ -1,0 +1,42 @@
+.searchForMovie {
+    font-weight: 700;
+    color: rgb(45, 45, 104);
+}
+.filtersText {
+    font-weight: 700;
+    font-size: 24px;
+    color: rgb(45, 45, 104);
+}
+.inputMovie {
+    background-color: rgb(56, 56, 99);
+    color: white;
+    padding: 0.7% 20% 0.7% 1%;
+    border: none;
+    border-radius: 5px;
+}
+.inputMovie::placeholder {
+    color: rgb(144, 144, 209);
+    font-weight: 600;
+}
+.inputMovie:focus {
+    outline: none;
+}
+.buttonSearch {
+    background-color: rgb(144, 144, 209);
+    color: white;
+    padding: 0.7% 10% 0.7% 10%;
+    border: none;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+}
+.typesMovies {
+    background-color: rgb(56, 56, 99);
+    color: white;
+    border: none;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+    padding: 5%;
+}

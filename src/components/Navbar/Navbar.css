@@ -1,0 +1,15 @@
+.navBarBackground {
+    background-color: rgb(45, 45, 104);
+    border-bottom: 3px solid rgb(56, 56, 99);
+}
+.navBarBackground div button {
+    color: white;
+    background-color: white;
+    border: none;
+}
+.navBarBackground a {
+    color: white;
+}
+.navBarBackground a:hover {
+    color: rgb(192, 189, 189);
+}
